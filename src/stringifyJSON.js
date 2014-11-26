@@ -3,9 +3,8 @@
 
 // but you don't so you're going to write it from scratch:
 var stringifyJSON = function(obj) {
-	
   var result = "";
-
+  
   if (nullCheck(obj)) {
   	return;
   } else if (typeof(obj) === "string") {
