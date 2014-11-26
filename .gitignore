@@ -28,3 +28,7 @@ results
 
 npm-debug.log
 node_modules
+
+# Sublime project files
+recursion.sublime-project
+recursion.sublime-workspace
